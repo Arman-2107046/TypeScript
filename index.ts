@@ -1,5 +1,5 @@
-function greet(person: string = "Anonymous") {
-  return `Hello ${person}`;
-}
+// function greet(person: string = "Anonymous") {
+//   return `Hello ${person}`;
+// }
 
-console.log(greet("Arman"));
+// console.log(greet("Arman"));

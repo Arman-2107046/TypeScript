@@ -16,8 +16,8 @@
 
 // void return 
 
-function printMesasge(message:string):void{
-    console.log("The message is : "+message);
-}
+// function printMesasge(message:string):void{
+//     console.log("The message is : "+message);
+// }
 
-printMesasge("Hello World");
+// printMesasge("Hello World");

@@ -6,13 +6,13 @@
 
 // console.log(person);
 
-function printUser():{name:string; age:number; location:string}
-{
-    return{
-        name:"Arman",
-        age:22,
-        location:"Dhaka"
-    }
-}
+// function printUser():{name:string; age:number; location:string}
+// {
+//     return{
+//         name:"Arman",
+//         age:22,
+//         location:"Dhaka"
+//     }
+// }
 
-console.log(printUser());
+// console.log(printUser());
