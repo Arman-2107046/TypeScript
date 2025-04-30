@@ -1,1 +1,5 @@
-console.log("Hello World");
+function greet(person: string = "Anonymous") {
+  return `Hello ${person}`;
+}
+
+console.log(greet("Arman"));
