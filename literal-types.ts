@@ -1,4 +1,4 @@
-let color: 'red'|'crimson'|'black';
+// let color: 'red'|'crimson'|'black';
 
-color='red';
+// color='red';
 // color='yellow';
