@@ -23,3 +23,4 @@
 // };
 
 // const items: (number | string)[] = [1, 2, 3, "apple", 4, 5];
+
